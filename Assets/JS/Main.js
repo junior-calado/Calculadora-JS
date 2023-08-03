@@ -1,5 +1,5 @@
-/* Esse é o codigo utilizando Factory Functions 
-*/
+// Esse é o codigo utilizando Factory Functions 
+
 
 
 function criaCalculadora() {
